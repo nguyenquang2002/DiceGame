@@ -1,0 +1,118 @@
+
+Chibi_fuji.skel.png
+size: 452,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 97, 3
+  size: 14, 22
+  orig: 16, 24
+  offset: 1, 1
+  index: -1
+Layer 11
+  rotate: false
+  xy: 78, 5
+  size: 16, 20
+  orig: 18, 22
+  offset: 1, 1
+  index: -1
+Layer 9
+  rotate: true
+  xy: 390, 26
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+Leg1
+  rotate: true
+  xy: 41, 5
+  size: 20, 34
+  orig: 21, 35
+  offset: 1, 1
+  index: -1
+armL
+  rotate: true
+  xy: 149, 6
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+armL copy
+  rotate: true
+  xy: 195, 6
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+backhair2
+  rotate: true
+  xy: 239, 9
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+booba
+  rotate: true
+  xy: 351, 11
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+brows
+  rotate: false
+  xy: 114, 19
+  size: 32, 6
+  orig: 34, 8
+  offset: 1, 1
+  index: -1
+eyes closed
+  rotate: false
+  xy: 118, 37
+  size: 90, 103
+  orig: 92, 105
+  offset: 1, 1
+  index: -1
+eyes open
+  rotate: false
+  xy: 211, 37
+  size: 90, 103
+  orig: 92, 105
+  offset: 1, 1
+  index: -1
+icon_cash_l
+  rotate: false
+  xy: 304, 57
+  size: 83, 83
+  orig: 88, 88
+  offset: 2, 2
+  index: -1
+leg2
+  rotate: true
+  xy: 3, 4
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 390, 84
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 304, 8
+  size: 46, 44
+  orig: 51, 51
+  offset: 3, 4
+  index: -1
+stun
+  rotate: false
+  xy: 3, 28
+  size: 112, 112
+  orig: 128, 128
+  offset: 8, 7
+  index: -1
